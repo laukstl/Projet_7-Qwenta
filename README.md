@@ -1,3 +1,5 @@
+![Banner-Qwenta](https://github.com/laukstl/Qwenta/assets/96294608/dd2c37b2-b7c4-4444-b5b7-9dfbf399840a)
+
 # Projet Menu Maker
 
 ## Description
